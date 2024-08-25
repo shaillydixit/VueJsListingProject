@@ -1,0 +1,2 @@
+resources/js/*.js
+resources/js/**/*.vue
